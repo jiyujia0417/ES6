@@ -1,0 +1,21 @@
+2015年6月正式发布
+
+1、ECMAScript 和 JavaScript 的关系
+ECMAScript是JavaScript的规格
+JavaScript是前者的一种实现
+日常场合，这两个词是可以互换的
+
+2、ES6 与 ECMAScript 2015 的关系
+ES6 既是一个历史名词，也是一个泛指，是 5.1 版以后的JavaScript 的下一代标准，涵盖了 ES2015、ES2016、ES2017 等
+ES2015 则是正式名称，特指该年发布的正式版本的语言标准
+
+3、语法提案的批准流程
+Stage 0 - Strawman（展示阶段）
+Stage 1 - Proposal（征求意见阶段）
+Stage 2 - Draft（草案阶段）
+Stage 3 - Candidate（候选人阶段）
+Stage 4 - Finished（定案阶段）
+
+4、ECMAScript 的历史
+
+Node.js 是 JavaScript 的服务器运行环境（runtime）。它对 ES6 的支持度更高
